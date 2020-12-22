@@ -27,7 +27,7 @@ def result():
         if int(result) == 1:
             prediction = 'The patient should be readmitted'
         else:
-            prediction = 'The patient should be readmited'
+            prediction = 'The patient should not be readmited'
         return render_template("result.html", prediction=prediction)
 
 
