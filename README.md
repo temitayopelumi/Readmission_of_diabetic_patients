@@ -27,7 +27,7 @@ edit(i used scalingo first)
 3.Pickle
 
 ## Project demo
-https://readmission.osc-fr1.scalingo.io/
+https://predicition.herokuapp.com/
 
 ## Prerequisites
 
